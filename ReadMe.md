@@ -1,6 +1,6 @@
 # 💫 Who Am I:
 👋🏽 Hi, I'm David - a full-stack software engineer. I switched to software engineering from accounting to feed my creative side. My love for coding started with creating a quoting tool using Excel macros and pivot tables in my Inside Sales role. In my free time, I enjoy sports, cooking, Marvel movies, and playing Apex Legends with friends. Oh, and I love Asian food!<br>
-🔭 I’m currently working on an architectural spec builder<br>👯 I’m looking to collaborate on AI projecs<br>🌱 I’m learning Framer Motion<br>⚡ Fun fact: I love music. I grew up DJing.<br>📫 How to reach me: Email Me: castillodavidofc@gmail.com
+🔭 I’m currently working on an architectural spec builder<br>👯 I’m looking to collaborate on projects that solive problems using AI<br>🌱 I’m learning Framer Motion<br>⚡ Fun fact: I love music. I grew up DJing.<br>📫 How to reach me: Email Me: castillodavidofc@gmail.com
 
 
 ## 🌐 Socials:
